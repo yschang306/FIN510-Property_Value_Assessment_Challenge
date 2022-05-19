@@ -8,4 +8,4 @@ This repository holds my final project done during the period of FIN510 Big Data
   * Data pre-processing: dealing with missing value and selecting variables.
   * Model training with five different models: simple linear regression, stepwise regression, Lasso regression with the best lambda value, random forest     with 8 variables randomly sampled at each split and regression tree.
   * Finding the best model with the lowest MSE.
-  * Predict the value of each property using the best model, random forest model.
+  * Predict the value of each property using the best model, random forest.
